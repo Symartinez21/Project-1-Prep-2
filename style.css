@@ -1,5 +1,8 @@
 center {
   display: block;
   text-align: -webkit-center;
-  
+}
+
+hr.dashed {
+  border-top: 3px dashed #bbb;
 }
