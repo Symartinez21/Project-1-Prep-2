@@ -25,3 +25,13 @@ tbody {
     vertical-align: middle;
     border-color: inherit;
 }
+
+.container{
+  display: grid;
+  grid-template-columns: repeat(2, 3fr);
+  grid-auto-rows: 100px 100px
+  grid-gap: 10px;
+    row-gap: 10px;
+    column-gap: 10px;
+  grid-auto-flow: dense;
+}
