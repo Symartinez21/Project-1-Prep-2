@@ -114,6 +114,30 @@ img {
   color: #FFA5FF;
 }
 
+.sidebar .wrapper {
+  padding: 0px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    margin-top: 0px;
+    width: 179px;
+}
+
+.page-wrapper {
+  margin-top: 0px;
+margin-right: auto;
+margin-bottom: 0px;
+margin-left: auto;
+padding: 0px;
+width: 691px;
+text-align: left;
+position: relative;
+border-left: 1px solid #F1F1F1;
+border-right: 1px solid #F1F1F1;
+background-color: #ffffff;
+}
+
 table {
     border-collapse: separate;
     text-indent: initial;
