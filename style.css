@@ -157,6 +157,14 @@ tbody {
     border-color: inherit;
 }
 
+.top-sec {
+  margin: auto;
+  text-align: center;
+  padding-bottom: 20px;
+}
+
+/*gallery flexbox */
+
 .container{
   display: grid;
   grid-template-columns: repeat(2, 3fr);
