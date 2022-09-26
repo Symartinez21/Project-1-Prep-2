@@ -13,7 +13,7 @@ img {
   object-fit: cover;
 }
 
-/* Navbar style */
+/* Navbar style for home */
 
 .nav-1 {
   margin: auto;
@@ -30,6 +30,8 @@ img {
   padding-left: 20px;
   padding-right: 20px;
 }
+
+
 
 table {
     border-collapse: separate;
