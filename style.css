@@ -32,7 +32,7 @@ img {
 }
 
 .nav-1 h1 {
-  font-size: 60px;
+  font-size: 50px;
   font-family: sans-serif;
   font-style: bold, italic;
   margin-bottom: 20px;
@@ -41,6 +41,29 @@ img {
 }
 
 .nav-1 a {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+/* Navbar style for gallery */
+
+.nav-2 {
+  margin: auto;
+  text-align: center;
+  padding-bottom: 20px;
+  background-color: #E4227C;
+}
+
+.nav-2 h1 {
+  font-size: 40px;
+  font-family: sans-serif;
+  font-style: bold, italic;
+  margin-bottom: 20px;
+  color: #990099
+
+}
+
+.nav-2 a {
   padding-left: 20px;
   padding-right: 20px;
 }
