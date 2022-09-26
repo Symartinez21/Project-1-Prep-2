@@ -78,6 +78,24 @@ img {
   padding-right: 20px;
 }
 
+
+.sidebar {
+  width: 179px;
+  font: 12px sans-serif
+  position: absolute;
+  top: 293px;
+  left: 505px;
+  margin: 0px;
+  padding-top: 0px;
+  padding-right: 6px;
+  padding-left: 0px;
+}
+
+.sidebar ul {
+  margin: 0px;
+  padding: 0px;
+}
+
 .sidebar li{
   border-bottom: 1px solid #F2E1EC;
     line-height: 15px;
