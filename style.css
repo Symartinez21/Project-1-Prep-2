@@ -22,9 +22,12 @@ img {
 }
 
 .nav-1 h1 {
-  font-size: 50px;
+  font-size: 60px;
+  font-family: sans-serif;
+  font-style: bold, italic;
   margin-bottom: 20px;
   color: #990099
+
 }
 
 .nav-1 a {
