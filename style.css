@@ -1,3 +1,14 @@
+a:link {
+  font-weight: bold;
+  text-decoration: none;
+  color: #610599;
+}
+
+a:hover, a:active{
+  text-decoration: underline;
+  color: #990099;
+}
+
 center {
   display: block;
   text-align: -webkit-center;
@@ -9,7 +20,6 @@ center {
   padding-left: 20%;
   padding-right: 20%;
   max-width: 600px;
-}
 }
 
 hr.dashed {
@@ -68,7 +78,23 @@ img {
   padding-right: 20px;
 }
 
-
+.sidebar li{
+  border-bottom: 1px solid #F2E1EC;
+    line-height: 15px;
+    list-style-type: none;
+    display: block;
+    padding-left: 20px;
+    padding-top: 0px;
+    padding-bottom: 10px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    background-image: url(icon.png);
+    background-repeat: no-repeat;
+    background-position: 5px 0px;
+}
+.sidebar li a:visited {
+  color: #FFA5FF;
+}
 
 table {
     border-collapse: separate;
