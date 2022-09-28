@@ -11,7 +11,7 @@ body {
   color: white;
   background-color: #FAD5DF;
   font-family: 'Press+Start+2P', sans-serif;
-  background: url(assets/background.png) no-repeat;
+  background: url(/assets/background.png) no-repeat;
 }
 
 a {
