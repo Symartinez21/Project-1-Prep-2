@@ -8,10 +8,10 @@ a:link {
 
 body {
   padding: 20px;
-  color: white;
   background-color: #FAD5DF;
   font-family: 'Press+Start+2P', sans-serif;
-  background: url(/assets/background.png) no-repeat;
+  background: url(/assets/background.png) repeat;
+  opacity: 0.5;
 }
 
 a {
