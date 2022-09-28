@@ -10,7 +10,8 @@ body {
   padding: 20px;
   background-color: #FAD5DF;
   font-family: 'Press+Start+2P', sans-serif;
-  background: url(/assets/background.png) repeat;
+  background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAAXNSR0IArs4c6QAAAChJREFUKFNjfKJU858BDYhtTkYXYmAcCgp/Xb2P4ZlXvnMxPTMEFAIAOHwt8QqqpC0AAAAASUVORK5CYII=
+) repeat;
   opacity: 0.5;
 }
 
