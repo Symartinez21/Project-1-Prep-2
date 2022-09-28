@@ -10,7 +10,7 @@ body {
   padding: 20px;
   background-color: #FAD5DF;
   font-family: 'Press-Start-2P', sans-serif;
-  font-size: 12px;
+  font-size: 15px;
   /* background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAAXNSR0IArs4c6QAAAChJREFUKFNjfKJU858BDYhtTkYXYmAcCgp/Xb2P4ZlXvnMxPTMEFAIAOHwt8QqqpC0AAAAASUVORK5CYII=
 ) 0.2, repeat; */
 }
@@ -53,7 +53,6 @@ h1{
 p {
   text-align: center;
     font-family: 'Press-Start-2P', serif;
-    font-size: 1em;
     line-height: 1.8;
     color: #610599;
     display: block;
@@ -107,7 +106,7 @@ opacity: 0.5
 .sidenav a {
   padding: 6px 8px 6px 16px;
   text-decoration: none;
-  font-size: 12px;
+  font-size: 12.5px;
   color: #2196F3;
   display: block;
 }
@@ -147,9 +146,9 @@ background-color: #610599;
   padding: 0px 10px;
 }
 
-/* @media screen and (max-height: 450px) {
+@media screen and (max-height: 450px) {
   .sidenav {padding-top: 15px;}
-  .sidenav a {font-size: 18px;} */
+  .sidenav a {font-size: 18px;}
 
 .top-sec {
   margin: auto;
@@ -163,7 +162,7 @@ background-color: #610599;
   padding-right: 20%;
   padding-bottom: 50px;
   font-family: 'Press-Start-2P', sans-serif;\
-  font-size: 12px;
+  font-size: 15px;
 }
 
 /*gallery2 flexbox */
