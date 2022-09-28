@@ -42,11 +42,11 @@ hr.dashed {
   border-top: 4px dashed #990099;
 }
 
-img {
+/* img {
   width: 75px;
   height: 75px;
   object-fit: cover;
-}
+} */
 
 /* Navbar style for home */
 
@@ -80,7 +80,7 @@ img {
   font: 12px, 'Press-Start-P2', sans-serif;
   top: 20px;
   left: 10px;
-  background-color: inherit;
+  background-color: #E4227C;
   overflow-x: hidden;
   padding: 8px 0;
 }
