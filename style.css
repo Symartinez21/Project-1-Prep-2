@@ -9,7 +9,7 @@ a:link {
 body {
   padding: 20px;
   background-color: #FAD5DF;
-  font-family: 'Press+Start+2P', sans-serif;
+  font-family: 'Press-Start-2P', sans-serif;
   font-size: 12px;
   /* background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAAXNSR0IArs4c6QAAAChJREFUKFNjfKJU858BDYhtTkYXYmAcCgp/Xb2P4ZlXvnMxPTMEFAIAOHwt8QqqpC0AAAAASUVORK5CYII=
 ) 0.2, repeat; */
@@ -17,7 +17,7 @@ body {
 
 a {
   color: violet;
-  font-family: 'Press+Start+2P', sans-serif;
+  font-family: 'Press-Start-2P', sans-serif;
 }
 
 a:hover, a:active{
@@ -43,8 +43,8 @@ hr.dashed {
 }
 
 h1{
-  font-size: 15px;
-  font-family: 'Press+Start+2P', sans-serif;
+  font-size: 20px;
+  font-family: 'Press-Start-2P', sans-serif;
   font-style: bold, italic;
   margin-bottom: 20px;
   color: #990099
@@ -52,10 +52,15 @@ h1{
 
 p {
   text-align: center;
-    font-family: 'Press+Start+2P', serif;
+    font-family: 'Press-Start-2P', serif;
     font-size: 1em;
     line-height: 1.8;
     color: #610599;
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
 }
 
 img {
@@ -73,7 +78,7 @@ opacity: 0.5
 
 .nav-1 h1 {
   font-size: 15px;
-  font-family: 'Press+Start+2P', sans-serif;
+  font-family: 'Press-Start-2P', sans-serif;
   font-style: bold, italic;
   margin-bottom: 20px;
   color: #990099
@@ -150,6 +155,14 @@ background-color: #610599;
   margin: auto;
   text-align: center;
   padding-bottom: 20px;
+}
+
+.flavortxt {
+  max-width: 800px;
+  padding-left: 20%;
+  padding-right: 20%;
+  padding-bottom: 50px;
+  font-family: 'Press-Start-2P', sans-serif;
 }
 
 /*gallery2 flexbox */
