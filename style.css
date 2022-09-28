@@ -41,6 +41,22 @@ hr.dashed {
   border-top: 4px dashed #990099;
 }
 
+h1{
+  font-size: 50px;
+  font-family: 'Press+Start+2P', sans-serif;
+  font-style: bold, italic;
+  margin-bottom: 20px;
+  color: #990099
+}
+
+p {
+  text-align: center;
+    font-family: 'Press+Start+2P', serif;
+    font-size: 1em;
+    line-height: 1.8;
+    color: #610599;
+}
+
 img {
 opacity: 0.5
 }
