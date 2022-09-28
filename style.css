@@ -124,6 +124,18 @@ opacity: 0.5
   color: #FFA5FF;
 }
 
+.sidenav ul {
+  margin: 0px;
+  padding: 0px;
+}
+
+.sidenav li {
+	display: block;
+	background-image: url(icon.png);
+	background-repeat: no-repeat;
+	background-position: 5px 0px;
+	}
+
 
 .sidenav .wrapper {
   background: top left repeat-y
