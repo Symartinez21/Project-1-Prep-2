@@ -1,7 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P');
+
 a:link {
   font-weight: bold;
   text-decoration: none;
   color: #610599;
+}
+
+body {
+  padding: 20px;
+  color: white;
+  background-color: #FAD5DF;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+a {
+  color: violet;
 }
 
 a:hover, a:active{
@@ -43,7 +56,7 @@ img {
 
 .nav-1 h1 {
   font-size: 50px;
-  font-family: sans-serif;
+  font-family: 'Press+Start+2P', sans-serif;
   font-style: bold, italic;
   margin-bottom: 20px;
   color: #990099
@@ -66,7 +79,7 @@ img {
 
 .nav-2 h1 {
   font-size: 40px;
-  font-family: sans-serif;
+  font-family: 'Press+Start+2P', sans-serif;
   font-style: bold, italic;
   margin-bottom: 20px;
   color: #990099
