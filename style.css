@@ -11,8 +11,7 @@ body {
   background-color: #FAD5DF;
   font-family: 'Press+Start+2P', sans-serif;
   background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAAXNSR0IArs4c6QAAAChJREFUKFNjfKJU858BDYhtTkYXYmAcCgp/Xb2P4ZlXvnMxPTMEFAIAOHwt8QqqpC0AAAAASUVORK5CYII=
-) repeat;
-  opacity: 0.2;
+) 0.2, repeat;
 }
 
 a {
@@ -42,11 +41,9 @@ hr.dashed {
   border-top: 4px dashed #990099;
 }
 
-/* img {
-  width: 75px;
-  height: 75px;
-  object-fit: cover;
-} */
+img {
+opacity: 0.5
+}
 
 /* Navbar style for home */
 
