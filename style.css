@@ -10,6 +10,7 @@ body {
   padding: 20px;
   background-color: #FAD5DF;
   font-family: 'Press+Start+2P', sans-serif;
+  font-size: 12px;
   background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAAXNSR0IArs4c6QAAAChJREFUKFNjfKJU858BDYhtTkYXYmAcCgp/Xb2P4ZlXvnMxPTMEFAIAOHwt8QqqpC0AAAAASUVORK5CYII=
 ) 0.2, repeat;
 }
@@ -42,7 +43,7 @@ hr.dashed {
 }
 
 h1{
-  font-size: 50px;
+  font-size: 15px;
   font-family: 'Press+Start+2P', sans-serif;
   font-style: bold, italic;
   margin-bottom: 20px;
@@ -71,7 +72,7 @@ opacity: 0.5
 }
 
 .nav-1 h1 {
-  font-size: 50px;
+  font-size: 15px;
   font-family: 'Press+Start+2P', sans-serif;
   font-style: bold, italic;
   margin-bottom: 20px;
@@ -101,7 +102,7 @@ opacity: 0.5
 .sidenav a {
   padding: 6px 8px 6px 16px;
   text-decoration: none;
-  font-size: 25px;
+  font-size: 12px;
   color: #2196F3;
   display: block;
 }
@@ -137,7 +138,7 @@ background-color: #610599;
 
 .main {
   margin-left: 140px; /* Same width as the sidebar + left position in px */
-  font-size: 28px; /* Increased text to enable scrolling */
+  font-size: 20px; /* Increased text to enable scrolling */
   padding: 0px 10px;
 }
 
