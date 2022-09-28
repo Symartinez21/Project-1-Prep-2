@@ -190,8 +190,12 @@ background-color: #610599;
   flex: 50%;
 }
 
+.banner::after {
+  position: absolute;
+}
+
 .banner {
-  background: url(assets/ditheredclouds.JPG) repeat-x;
+  background: url(assets/ditheredclouds.jpg) repeat-x;
     top: 0px;
     right: 0px;
     width: 100%;
