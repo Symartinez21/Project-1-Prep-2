@@ -11,8 +11,8 @@ body {
   background-color: #FAD5DF;
   font-family: 'Press+Start+2P', sans-serif;
   font-size: 12px;
-  background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAAXNSR0IArs4c6QAAAChJREFUKFNjfKJU858BDYhtTkYXYmAcCgp/Xb2P4ZlXvnMxPTMEFAIAOHwt8QqqpC0AAAAASUVORK5CYII=
-) 0.2, repeat;
+  /* background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAAXNSR0IArs4c6QAAAChJREFUKFNjfKJU858BDYhtTkYXYmAcCgp/Xb2P4ZlXvnMxPTMEFAIAOHwt8QqqpC0AAAAASUVORK5CYII=
+) 0.2, repeat; */
 }
 
 a {
