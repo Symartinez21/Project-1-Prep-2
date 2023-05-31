@@ -7,10 +7,10 @@ a:link {
 }
 
 body {
-  padding: 20px;
+  padding: 15px;
   background-color: #FAD5DF;
   font-family: 'Press Start 2P', sans-serif;
-  font-size: 15px;
+  font-size: 12px;
    /* background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAAXNSR0IArs4c6QAAAChJREFUKFNjfKJU858BDYhtTkYXYmAcCgp/Xb2P4ZlXvnMxPTMEFAIAOHwt8QqqpC0AAAAASUVORK5CYII=
 ) repeat; */
 background-origin: border-box;
