@@ -71,7 +71,7 @@ p {
 }
 
 img {
-opacity: 0.5
+opacity: 0.7
 }
 
 /* Navbar style for home */
@@ -206,7 +206,7 @@ background-color: #610599;
 }
 
 .gallery-item-square {
-  padding: 0px;
+  padding: 20px;
   text-align: center;
   flex: 50%;
   align-self: auto;
