@@ -85,7 +85,7 @@ opacity: 0.7
 }
 
 .nav-1:hover {
-  width: 400px
+  width: 800px;
 }
 
 .nav-1 h1 {
@@ -93,7 +93,7 @@ opacity: 0.7
   font-family: 'Kanit Medium', sans-serif;
   font-style: bold, italic;
   margin-bottom: 20px;
-  color: #f5f5f5
+  color: #204a9e
 
 }
 
@@ -222,7 +222,7 @@ background-color: #610599;
 }
 
 .banner {
-  background: url(assets/ditheredclouds.jpg) repeat-x;
+  background: url(assets/ditheredtenshiclouds.jpg) repeat-x;
     top: 0px;
     right: 0px;
     width: 100%;
