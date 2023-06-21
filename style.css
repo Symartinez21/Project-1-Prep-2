@@ -3,12 +3,12 @@
 a:link {
   font-weight: bold;
   text-decoration: none;
-  color: #610599;
+  color: #1b0599;
 }
 
 body {
   padding: 15px;
-  background-color: #FAD5DF;
+  background-color: #d5f8fa;
   font-family: '1St Enterprises Outline Italic', sans-serif;
   font-size: 12px;
    /* background: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAAXNSR0IArs4c6QAAAChJREFUKFNjfKJU858BDYhtTkYXYmAcCgp/Xb2P4ZlXvnMxPTMEFAIAOHwt8QqqpC0AAAAASUVORK5CYII=
@@ -19,13 +19,13 @@ background-color: transparent;
 }
 
 a {
-  color: violet;
+  color: rgb(130, 184, 238);
   font-family: '1St Enterprises Outline Italic', sans-serif;
 }
 
 a:hover, a:active{
   text-decoration: underline;
-  color: #990099;
+  color: #001c99;
 }
 
 center {
@@ -80,7 +80,12 @@ opacity: 0.7
   margin: auto;
   text-align: center;
   padding-bottom: 20px;
-  background-color: #91d6f9;
+  background-color: #91b4f9;
+  transition: width 2s;
+}
+
+.nav-1:hover {
+  width: 400px
 }
 
 .nav-1 h1 {
@@ -142,8 +147,8 @@ opacity: 0.7
 
 .sidenav .wrapper {
   background: top left repeat-y
-  padding: 10px;
-    width: 179px;
+  /* padding: 10px;
+  width: 179px; */
 }
 
 .page-wrapper {
@@ -222,4 +227,5 @@ background-color: #610599;
     right: 0px;
     width: 100%;
     height: 104px;
+}
 }
