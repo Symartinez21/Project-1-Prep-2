@@ -81,11 +81,11 @@ opacity: 0.7
   text-align: center;
   padding-bottom: 20px;
   background-color: #91b4f9;
-  transition: width 2s;
+  transition: width 4s;
 }
 
 .nav-1:hover {
-  width: 800px;
+  width: 400px;
 }
 
 .nav-1 h1 {
