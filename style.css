@@ -77,7 +77,7 @@ opacity: 0.7
 /* Navbar style for home */
 
 .nav-1 {
-  margin: auto;
+  width: 400px;
   text-align: center;
   padding-bottom: 20px;
   background-color: #91b4f9;
@@ -85,7 +85,7 @@ opacity: 0.7
 }
 
 .nav-1:hover {
-  width: 400px;
+  width: 500px;
 }
 
 .nav-1 h1 {
